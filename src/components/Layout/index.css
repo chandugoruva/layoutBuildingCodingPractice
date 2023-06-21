@@ -1,0 +1,8 @@
+.bg-layout {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  margin: 40px;
+  justify-content: center;
+  /* align-items: center; */
+}
